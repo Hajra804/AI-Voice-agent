@@ -19,22 +19,18 @@ An intelligent AI-powered Dental Voice Assistant designed to automate patient in
                
 <img width="336" height="317" alt="image" src="https://github.com/user-attachments/assets/0fa4e7c3-d07d-4242-8fd5-f14ce4c80038" />
 
-**Tech Stack**
-Artificial Intelligence
-Google Gemini
-Groq LLM
-Retrieval-Augmented Generation (RAG)
-Workflow Automation
-n8n
-Vector Database
-Pinecone
-Frontend
-HTML
-CSS
-JavaScript
-APIs
-Google Gemini API
-Pinecone API
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **Programming Language** | JavaScript, HTML, CSS |
+| **Workflow Automation** | n8n |
+| **AI Models** | Google Gemini, Groq LLM |
+| **Vector Database** | Pinecone |
+| **Embeddings** | Gemini Embedding API |
+| **Frontend** | HTML, CSS, JavaScript |
+| **Knowledge Base** | Website Crawling, RAG |
+| **Version Control** | Git, GitHub |
 
 
 
