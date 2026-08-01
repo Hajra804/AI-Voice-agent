@@ -15,31 +15,10 @@ An intelligent AI-powered Dental Voice Assistant designed to automate patient in
 🦷 Dental FAQs
 💾 Conversation Memory
 ⚡ Real-Time AI Responses
-                 User (Voice / Chat)
-                         │
-                         ▼
-                  Speech-to-Text
-                         │
-                         ▼
-                 n8n Orchestrator
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-          ▼              ▼              ▼
-   Intent Detection   Conversation   RAG Search
-                         Memory
-          │              │              │
-          └──────────────┼──────────────┘
-                         ▼
-                  AI Response Generator
-                         │
-                  Text-to-Speech
-                         │
-                         ▼
-                      Patient
+               
+<img width="336" height="317" alt="image" src="https://github.com/user-attachments/assets/0fa4e7c3-d07d-4242-8fd5-f14ce4c80038" />
 
-
-**Tech Stack
+**Tech Stack**
 Artificial Intelligence
 Google Gemini
 Groq LLM
@@ -57,23 +36,8 @@ Google Gemini API
 Pinecone API
 
 
-**RAG Pipeline
-User Question
-      │
-      ▼
-Embedding
-      │
-      ▼
-Pinecone Search
-      │
-      ▼
-Relevant Chunks
-      │
-      ▼
-Gemini LLM
-      │
-      ▼
-Grounded Response
+
+<img width="125" height="297" alt="image" src="https://github.com/user-attachments/assets/4f286147-f1b2-4fd2-b1b8-48e2f6fd34d5" />
 
 
 Author
