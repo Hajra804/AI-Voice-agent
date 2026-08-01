@@ -21,17 +21,12 @@ An intelligent AI-powered Dental Voice Assistant designed to automate patient in
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
-| **Programming Language** | JavaScript, HTML, CSS |
-| **Workflow Automation** | n8n |
-| **AI Models** | Google Gemini, Groq LLM |
-| **Vector Database** | Pinecone |
-| **Embeddings** | Gemini Embedding API |
-| **Frontend** | HTML, CSS, JavaScript |
-| **Knowledge Base** | Website Crawling, RAG |
-| **Version Control** | Git, GitHub |
-
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0085FF?style=for-the-badge)
 
 
 <img width="125" height="297" alt="image" src="https://github.com/user-attachments/assets/4f286147-f1b2-4fd2-b1b8-48e2f6fd34d5" />
