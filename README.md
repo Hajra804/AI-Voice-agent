@@ -2,7 +2,8 @@
 n8n, Orchestrator
 
 An intelligent AI-powered Dental Voice Assistant designed to automate patient interactions, answer dental-related questions, provide treatment information, assist with appointment scheduling, and retrieve accurate clinic information using Retrieval-Augmented Generation (RAG).
-🚀 Features
+
+ **Features**
 🎤 AI Voice Assistant
 💬 Natural Language Conversations
 🧠 Retrieval-Augmented Generation (RAG)
